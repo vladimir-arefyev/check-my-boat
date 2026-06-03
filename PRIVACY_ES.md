@@ -128,7 +128,7 @@ Puedo actualizar esta Política de privacidad periódicamente. Si realizo cambio
 Si tienes alguna pregunta o duda sobre esta Política de privacidad, contáctame en:
 
 **Vladimir Arefev**
-Email: support@yoursite.com
+Email: code4vlad@gmail.com
 
 ---
 
