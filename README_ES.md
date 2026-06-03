@@ -2,13 +2,11 @@
 
 Un asistente guiado para la aceptación de barcos de chárter. La app te lleva por la inspección completa de la embarcación — zona a zona, en el orden más eficiente — para que no olvides nada importante antes de zarpar.
 
-Disponible en el [App Store](https://apps.apple.com).
-
 ---
 
 ## Soporte
 
-Para preguntas, reportes de errores o comentarios, escribe a **support@yoursite.com**
+Para preguntas, reportes de errores o comentarios, escribe a **code4vlad@gmail.com**
 
 Al reportar un error, incluye por favor:
 
