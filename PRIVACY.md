@@ -128,7 +128,7 @@ I may update this Privacy Policy from time to time. If I make material changes, 
 If you have any questions or concerns about this Privacy Policy, please contact me at:
 
 **Vladimir Arefev**
-Email: support@yoursite.com
+Email: code4vlad@gmail.com
 
 ---
 
