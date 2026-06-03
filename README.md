@@ -2,13 +2,11 @@
 
 A guided yacht acceptance assistant for charter skippers. The app walks you through a full boat check-in — zone by zone, in the most efficient order — so you don't miss anything important before casting off.
 
-Available on the [App Store](https://apps.apple.com).
-
 ---
 
 ## Support
 
-For questions, bug reports, or feedback, please email **support@yoursite.com**
+For questions, bug reports, or feedback, please email **code4vlad@gmail.com**
 
 When reporting a bug, please include:
 
